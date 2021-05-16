@@ -11,6 +11,8 @@ https://fathomless-fjord-56633.herokuapp.com/
 ## Link to Github
 https://github.com/mmcginley81/shop-shop-redux/
 
+<img width="951" alt="Shop-Shop-image" src="https://user-images.githubusercontent.com/75404915/118412826-ffca0280-b650-11eb-8800-83cc1409dcd5.PNG">
+
 
 ## User Story
 AS a senior engineer working on an e-commerce platform
